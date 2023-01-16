@@ -78,16 +78,10 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandr0SmS&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Leandr0SmS)](https://github.com/Leandr0SmS)
 
-<br>
-<br>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandr0SmS&layout=compact)](https://github.com/Leandr0SmS)
 
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/handshake.gif" width ="80">
