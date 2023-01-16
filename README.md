@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Permaculture+Practitioner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-<br>
 	
 ## <picture><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/about_me.gif" width = 50px></picture> **About me**
 
@@ -17,6 +15,7 @@
 - :green_book: Currently learning Web Development by Self
 - :herb: Living and protecting the rain forest
 - :earth_americas: Trying to do something for a better world
+- :fire: Camper at [FreeCodeCamp](https://www.freecodecamp.org/LeandroSmS)
 
 <br>
 
