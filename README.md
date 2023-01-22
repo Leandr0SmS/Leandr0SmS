@@ -6,7 +6,7 @@
 </p>
 
 	
-## <picture><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/about_me.gif" width = 30px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/Right_Side.gif" width = 250px></picture>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-## <img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/stats.gif" width ="25"><b> Stats</b>
+## <img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/stats.gif" width =30px><b> Stats</b>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leandr0SmS&theme=blue-green&border_radius=4.4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
