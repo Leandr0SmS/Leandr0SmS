@@ -6,7 +6,7 @@
 </p>
 
 	
-## <picture><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/about_me.gif" width = 70px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/Right_Side.gif" width = 250px></picture>
 
