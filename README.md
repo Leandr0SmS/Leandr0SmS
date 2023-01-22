@@ -19,8 +19,10 @@
 - :fire: Camper at [FreeCodeCamp](https://www.freecodecamp.org/LeandroSmS)
 
 <br>
+<br>
 
 ## <img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/stats.gif" width =30px><b> Stats</b>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leandr0SmS&theme=blue-green&border_radius=4.4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
