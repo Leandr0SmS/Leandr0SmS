@@ -76,7 +76,7 @@
 <br>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/handshake.gif" width ="80">
+## <b> Let's Connect!</b><img src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
