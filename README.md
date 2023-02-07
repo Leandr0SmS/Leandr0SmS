@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Leandro Simões </b></h1>
+<h1 align="center"><b>Leandro Simões </b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=47F718&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Permaculture+Practitioner,;Love+to+learn+new+stuffs..<3"></a>
@@ -99,7 +99,6 @@
 </ul>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <br>
