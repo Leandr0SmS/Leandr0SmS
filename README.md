@@ -11,7 +11,7 @@
 
 ## **About me**
 
-<picture> <img align="right" width="250px"  style=" margin:1rem;"
+<picture  style="border:2px solid green;">> <img  style="margin:1rem;" align="right" width="250px"
 src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-forest-final.png" alt="coder at rain forest"></picture>
 
 <br>
