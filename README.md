@@ -26,6 +26,9 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 - :fire: Camper at [FreeCodeCamp](https://www.freecodecamp.org/LeandroSmS)
 
 <br>
+
+<br>
+
 <br>
 
 ## **Stats**
