@@ -11,7 +11,7 @@
 
 ## **About me**
 
-<picture> <img align="right" src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-forest-final.png" width=200px style="border-radius:10px;margin:2rem;margin-rigth:2rem"></picture>
+<picture> <img align="right" src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-forest-final.png" width=250px></picture>
 
 <br>
 
