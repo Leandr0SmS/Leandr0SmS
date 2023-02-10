@@ -7,6 +7,7 @@
         src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=47F718&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Permaculture+Practitioner,;Love+to+learn+new+stuffs..<3">
     </a>
 </p>
+
 <br>
 
 <picture>
