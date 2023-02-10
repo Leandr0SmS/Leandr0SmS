@@ -7,16 +7,16 @@
         src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=47F718&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Permaculture+Practitioner,;Love+to+learn+new+stuffs..<3">
     </a>
 </p>
-
-
-## **About me**
-
 <br>
 
 <picture>
-<img align="right" width="14em"
+<img align="right" width="170rem"
 src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-forest-final.png" alt="coder at rain forest">
 </picture>
+
+<br>
+
+## **About me**
 
 <br>
 
@@ -26,10 +26,8 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 - :earth_americas: Trying to do something for a better world
 - :fire: Camper at [FreeCodeCamp](https://www.freecodecamp.org/LeandroSmS)
 
-<br>
 
 <br>
-
 
 ## **Stats**
 <br>
