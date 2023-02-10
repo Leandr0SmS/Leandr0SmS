@@ -19,13 +19,13 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 
 <br>
 
+<br>
+
 - :computer:A passionate Self-taught Web developer
 - :green_book: Currently learning Web Development by Self
 - :herb: Living and protecting the rain forest
 - :earth_americas: Trying to do something for a better world
 - :fire: Camper at [FreeCodeCamp](https://www.freecodecamp.org/LeandroSmS)
-
-<br>
 
 <br>
 
