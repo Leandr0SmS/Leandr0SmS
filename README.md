@@ -30,6 +30,10 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 
 <br>
 
+<br>
+
+<br>
+
 ## **Stats**
 <br>
 
