@@ -14,7 +14,7 @@
 <br>
 
 <picture>
-<img align="right" width="100%"
+<img align="right" width="14em"
 src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-forest-final.png" alt="coder at rain forest">
 </picture>
 
