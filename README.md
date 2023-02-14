@@ -1,6 +1,6 @@
 
 <picture>
-<img align="center" width="100%" height="500rem"
+<img align="center" width="100%" height="100%"
 src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/two-coders-cover.png" alt="two coder at rain forest">
 </picture>
 
