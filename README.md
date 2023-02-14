@@ -1,4 +1,16 @@
 
+<picture>
+<img align="center" width="100%" height="500rem"
+src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/two-coders-cover.png" alt="two coder at rain forest">
+</picture>
+
+<br>
+
+<br>
+
+---
+
+
 <h1 align="center"><b>Leandro Simões </b></h1> 
 
 <p align="center">
