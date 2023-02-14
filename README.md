@@ -23,7 +23,7 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/two-coders
 <br>
 
 <picture>
-<img align="right" width="170rem"
+<img align="right" width="170em"
 src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-forest-final.png" alt="coder at rain forest">
 </picture>
 
