@@ -67,6 +67,7 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
    ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 
 <br>
 
@@ -128,4 +129,4 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 
 Credit: [Leandro Simões](https://github.com/Leandr0SmS)
 
-Last Edited on: 07/02/2023
+Last Edited on: 28/04/2023
