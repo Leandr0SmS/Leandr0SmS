@@ -16,7 +16,7 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/two-coders
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=47F718&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Permaculture+Practitioner,;Love+to+learn+new+stuffs..<3">
+        src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=47F718&size=25&center=true&vCenter=true&width=600&height=100&lines=Learning+Web+Developer,;Active+Learner/Researcher,;Permaculture+Practitioner,;Love+to+learn+new+stuffs..<3">
     </a>
 </p>
 
@@ -33,12 +33,9 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 
 <br>
 
-- :computer:A passionate Self-taught Web developer
-- :green_book: Currently learning Web Development by Self
-- :herb: Living and protecting the rain forest
-- :earth_americas: Trying to do something for a better world
+- :computer: Currently learning Web Development and Software Engineering
+- :herb: Working with the rainforest
 - :fire: Camper at [FreeCodeCamp](https://www.freecodecamp.org/LeandroSmS)
-
 
 <br>
 
@@ -57,6 +54,7 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 - **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Python](https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=Python&logoColor=white&color=blue)
 
 <br>   
     
@@ -129,4 +127,4 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 
 Credit: [Leandro Simões](https://github.com/Leandr0SmS)
 
-Last Edited on: 28/04/2023
+Last Edited on: 03/08/2023
