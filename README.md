@@ -39,13 +39,6 @@ src="https://github.com/Leandr0SmS/Leandr0SmS/blob/main/resources/img/coder-fore
 
 <br>
 
-## **Stats**
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leandr0SmS&theme=blue-green&border_radius=4.4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
